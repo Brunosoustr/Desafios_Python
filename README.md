@@ -5,14 +5,14 @@
 As seções estão divididas conforme a sua respectiva atuação:
 
 
-[![Exercícios de Reforço](https://img.shields.io/badge/Exerc%C3%ADcios%20de%20Refor%C3%A7o-Python-green
+[![Exercícios de Reforço](https://img.shields.io/badge/Exerc%C3%ADcios%20de%20Refor%C3%A7o-Python-darkgreen
 )](https://shields.io/badges/static-badge)
 
 
-[![Desafios de Projetos](https://img.shields.io/badge/Desafios%20de%20C%C3%B3digo-Pyhton-green?labelColor=goldenrod
+[![Desafios de Projetos](https://img.shields.io/badge/Desafios%20de%20C%C3%B3digo-Pyhton-darkgreen?labelColor=goldenrod
 )](https://shields.io/badges/static-badge)
 
-[![Projetos](https://img.shields.io/badge/Projetos%20de%20Aprendizado-Pyhton-green?labelColor=%234169E1
+[![Projetos](https://img.shields.io/badge/Projetos%20de%20Aprendizado-Pyhton-darkgreen?labelColor=%234169E1
 )](https://shields.io/badges/static-badge)
 
 
