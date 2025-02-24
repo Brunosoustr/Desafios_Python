@@ -9,7 +9,7 @@ As seções estão divididas conforme a sua respectiva atuação:
 )](https://shields.io/badges/static-badge)
 
 
-[![Desafios de Projetos](https://img.shields.io/badge/Desafios%20de%20C%C3%B3digo-Pyhton-gold?labelColor=goldenrod
+[![Desafios de Projetos](https://img.shields.io/badge/Desafios%20de%20C%C3%B3digo-Pyhton-darkgreen?labelColor=goldenrod
 )](https://shields.io/badges/static-badge)
 
 [![Projetos](https://img.shields.io/badge/Projetos%20de%20Aprendizado-Pyhton-darkgreen?labelColor=%234169E1
